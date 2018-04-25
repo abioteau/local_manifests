@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="abioteau" fetch="https://github.com/abioteau/" />
+<project path="vendor/qcom/prebuilt" name="vendor_qcom_prebuilt" groups="device" remote="abioteau" revision="m-mr1_3.10" />
+<project path="vendor/sony" name="vendor_sony" groups="device" remote="abioteau" revision="m-mr1_3.10" />
+<project path="vendor/sony/loire" name="vendor_sony_loire" groups="device" remote="abioteau" revision="n-mr1_3.10" />
+</manifest>
