@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="abioteau" fetch="https://github.com/abioteau/" />
+<project path="vendor/sony" name="vendor_sony" groups="device" remote="abioteau" revision="n-mr1_3.18" />
+</manifest>
