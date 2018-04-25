@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="abioteau" fetch="https://github.com/abioteau/" />
+<project path="vendor/sony/loire" name="vendor_sony_loire" groups="device" remote="abioteau" revision="o-mr1_4.4" />
+<project path="vendor/sony/nile" name="vendor_sony_nile" groups="device" remote="abioteau" revision="o-mr1_4.4" />
+<project path="vendor/sony/tone" name="vendor_sony_tone" groups="device" remote="abioteau" revision="o-mr1_4.4" />
+<project path="vendor/sony/yoshino" name="vendor_sony_yoshino" groups="device" remote="abioteau" revision="o-mr1_4.4" />
+</manifest>
