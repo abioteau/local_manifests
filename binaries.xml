@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="abioteau" fetch="https://github.com/abioteau/" />
+<project path="vendor/sony/msm-4.9/loire" name="vendor_sony_loire" groups="device" remote="abioteau" revision="p-mr0_4.9" />
+<project path="vendor/sony/msm-4.9/nile" name="vendor_sony_nile" groups="device" remote="abioteau" revision="p-mr0_4.9" />
+<project path="vendor/sony/msm-4.9/tama" name="vendor_sony_tama" groups="device" remote="abioteau" revision="p-mr0_4.9" />
+<project path="vendor/sony/msm-4.9/tone" name="vendor_sony_tone" groups="device" remote="abioteau" revision="p-mr0_4.9" />
+<project path="vendor/sony/msm-4.9/yoshino" name="vendor_sony_yoshino" groups="device" remote="abioteau" revision="p-mr0_4.9" />
+</manifest>
