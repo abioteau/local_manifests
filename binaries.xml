@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="abioteau" fetch="https://github.com/abioteau/" />
+<project path="vendor/sony/msm-4.14/ganges" name="vendor_sony_ganges" groups="device" remote="abioteau" revision="q-mr0_4.14" />
+<project path="vendor/sony/msm-4.14/kumano" name="vendor_sony_kumano" groups="device" remote="abioteau" revision="q-mr0_4.14" />
+<project path="vendor/sony/msm-4.14/nile" name="vendor_sony_nile" groups="device" remote="abioteau" revision="q-mr0_4.14" />
+<project path="vendor/sony/msm-4.14/seine" name="vendor_sony_seine" groups="device" remote="abioteau" revision="q-mr0_4.14" />
+<project path="vendor/sony/msm-4.14/tama" name="vendor_sony_tama" groups="device" remote="abioteau" revision="q-mr0_4.14" />
+<project path="vendor/sony/msm-4.14/yoshino" name="vendor_sony_yoshino" groups="device" remote="abioteau" revision="q-mr0_4.14" />
+</manifest>
